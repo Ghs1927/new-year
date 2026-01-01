@@ -109,7 +109,7 @@ function initMatrix() {
         ctx.fillStyle = "#ff2d75";
         ctx.font = "18px monospace";
         for (let i = 0; i < drops.length; i++) {
-            const text = "HAPPYNEWYEAR2026MYDEARLOVE❤️✨"[Math.floor(Math.random()*23)];
+            const text = "HAPPYNEWYEAR2026MYLOVE❤️✨"[Math.floor(Math.random()*23)];
             ctx.fillText(text, i * 20, drops[i] * 20);
             if (drops[i] * 20 > canvas.height && Math.random() > 0.975) drops[i] = 0;
             drops[i]++;
@@ -118,6 +118,7 @@ function initMatrix() {
     setInterval(draw, 50);
 
 }
+
 
 
 
