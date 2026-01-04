@@ -76,7 +76,7 @@ function startTypewriter() {
     const message = "My Dear Honeyy,<br><br>" +
                     "Wishing You a Very Happy New Year Bangaram.I Hope Everything goes perfectly for you to the very last second of 2025 and i wish every second of the 2026 will be fulfiling our dreams from us growing old together and living and enjoying every moment in our life together. I wish 2026 will give all the luck and blessings to us .<br><br>" +
                     "Every line of this song is for u honeyy .I Missed You Alottt telsaa Ammu.. How can i not You are my other half and nothing in this world is perfect without its other half right.. only you make me complete and a whole person honeyyy and im sooo luckyyyy to have you in my life.I Love You sooo muchh honeyy if one day the universe asks me what do you want, ill chose you in every universe honeyy I Love you soo muchh. i want to spend happily rest of my life with you honeyy.ik we havent spent much time together this year but those very moments im there beside you, are more precious to me than any diamond worth.. every second i spent with you im longing for those moments again and again you are my happiness bangaram my love my wifeee. im carrying you with me in every step i take honeyy and one day we will take our seven steps together bangaram ill take you with me . i wish u will be happy all the time honeyy and me being beside you all the time honeyy 'NANU NINNANNU PRITISUTENE' 'NANU UNNAI KAADHALIKEREN MANIVI'  Uk i never felt special abt learning different languages until u said its good honeyy makes me want to learn more so i can express all my love to u in every languages i learnt hehe.<br><br>" +
-                    "once again wishing you and our family a very very happy new year honeyy ❤️, wishing everything will go good and u will be happy all the time.stay safe stay happy keep smiling honeyy im missing you alott i lovee you soo muchh banaram ";
+                    "Thank you for being my support and motivation honeyy uk for u ill always find a way honeyy to spend all my time and life with you, to always make u happy. once again wishing you and our family a very very happy new year honeyy ❤️, wishing everything will go good and u will be happy all the time.stay safe stay happy keep smiling honeyy im missing you alott i lovee you soo muchh banaram ";
     
     let i = 0;
     const textEl = document.getElementById('letter-text');
@@ -118,6 +118,7 @@ function initMatrix() {
     setInterval(draw, 50);
 
 }
+
 
 
 
